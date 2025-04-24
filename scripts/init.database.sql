@@ -1,8 +1,11 @@
 /*
 CREATE DATABASE AND SCHEMAS
 ============================
+
+
 Script Purpose:
     This creates for a new database named 'DataWareHouse' after checking it already exists.
+
 
 Warning :
    Running all the scripts will drop the 'DataWareHouse' database if it's exist.
