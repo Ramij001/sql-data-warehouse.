@@ -32,6 +32,16 @@ Develop SQL-based analytical to deliver detailed insight into:
 These insights enabling strategic decision-making.
 
 
+# License
+
+This is licensed under the (MIT). You are free to use, modify and share
+
+## About Me.
+
+Hi there! I'm ***Ramij*** im an data analyst with  2 years of experince in **DATA ANALYST** field and aspiring **DATA SCIENTIST**.
+
+
+
 
 
 
