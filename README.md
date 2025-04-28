@@ -40,7 +40,7 @@ This is licensed under the (MIT). You are free to use, modify and share
 
 Hi there! I'm ***Ramij*** im an data analyst with  2 years of experince in **DATA ANALYST** field and aspiring **DATA SCIENTIST**.
 
-### Project Overview 
+# Project Overview 
 This project involves:
 
 1.Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
